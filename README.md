@@ -5,7 +5,7 @@ This project demonstrates the creation of a scalable, serverless video analysis 
 The application uses a multi-stage pipeline implemented with AWS Lambda functions to handle video files uploaded by users. It starts with a video being uploaded to an S3 bucket, followed by several stages of processing including video splitting, face detection, and face recognition.
 
 ## Architecture
-
+architecture.png
 
 ## Key Components
 ### Input Bucket
